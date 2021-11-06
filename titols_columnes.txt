@@ -1,0 +1,14 @@
+ID
+title
+artist
+genre
+year
+bpm
+Energy
+Danceability
+Loudness
+Liveness
+Valence
+Duration
+Acousticness
+Speechiness
